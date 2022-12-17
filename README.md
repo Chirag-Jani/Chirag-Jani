@@ -5,7 +5,7 @@
 
 - 🪖 I'm Chirag Jani, a developer who didn't know how to right click on laptop 2 years ago.
 - 🧑🏻‍💻 Learning and working my way through the tech world.
-- 🔊 Web3 guy who loved to talk and share!
+- 🔊 Web3 guy who loves to talk and share!
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
