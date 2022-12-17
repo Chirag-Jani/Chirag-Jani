@@ -1,4 +1,7 @@
-#For you Visitor :)
+<h1>
+  Ellow there, mate!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 
 - 🪖 I'm Chirag Jani, a developer who didn't know how to right click on laptop 2 years ago.
 - 🧑🏻‍💻 Learning and working my way through the tech world.
@@ -15,11 +18,6 @@
   </a>
   <div><img src="https://komarev.com/ghpvc/?username=zartaj0&style=flat-square&color=blue" alt=""/>
   </div>
-  <h1>
-  Ello there, mate!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-    
 
 </div>
 </div>
