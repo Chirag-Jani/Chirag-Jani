@@ -7,7 +7,7 @@
   <img src="https://komarev.com/ghpvc/?username=Chirag-Jani&style=flat-square&color=blue" alt=""/>
 </p>
 
-- 🪖 I'm Chirag Jani, a developer who didn't know how to right-click on a laptop 2 years ago.
+- 🪖 I'm Chirag Jani, a developer who didn't know how to right-click on a laptop 4 years ago.
 - 🧑🏻‍💻 Learning and working my way through the tech world.
 - 🔊 Web3 guy who loves to talk and share!
 
@@ -30,10 +30,6 @@
 ### :trophy: GitHub Awards
 
 [![Achievements](https://github-profile-trophy.vercel.app/?username=Chirag-Jani&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
-
-### :bar_chart: Contribution Stats
-
-[![Chirag's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Chirag-Jani&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### :thinking: What I Mostly Code In
 
